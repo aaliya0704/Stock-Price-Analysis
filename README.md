@@ -24,3 +24,19 @@ The project visualizes stock prices over time and calculates moving averages to 
 ## Project Status
 
 🚧 Project setup completed.
+
+## Key Insights
+
+- Downloaded real-world stock data using yfinance.
+- Visualized closing prices over time.
+- Calculated a 20-day moving average.
+- Compared raw prices with smoothed trends.
+- Computed daily price changes.
+
+## Skills Practiced
+
+- API data retrieval
+- Time-series analysis
+- Data visualization
+- Rolling window calculations
+- Financial data exploration
